@@ -13,6 +13,7 @@ let tile4 = document.querySelector(".tile4");
 // task 2: tile 1 feels a little sad. Update the inner HTML to show an encouraging message! Something like "YOU GOT THIS!" or even a "You're a beautiful person!" 
 tile1.innerHTML = "<div style='background-color: grey;'>you're the best!</div>";
 
+// here is some more code.
 
 
 // task 3: tile 2 has a button. Create a click event and have the background color of tile 2 change to a shade of green.BE SURE TO SAVE THE BUTTON FIRST AS A VARIABLE.Can you see if there's a way to toggle it???
